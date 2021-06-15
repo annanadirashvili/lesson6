@@ -94,5 +94,11 @@ width: 200px;
 }
 .Parachute:hover {
 	top: 200px;
-	left: 50px;
+	left: 30px;
+}
+.fish4 {
+	position: absolute;
+	width: 100px;
+	top: 500px;
+	left: 400px;
 }
