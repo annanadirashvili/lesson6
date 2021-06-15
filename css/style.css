@@ -101,4 +101,10 @@ width: 200px;
 	width: 100px;
 	top: 500px;
 	left: 400px;
+	transition-duration: 5s;
+	transition-timing-function: linear	
+}
+.fish4:hover {
+	width: 160px;
+	top: 400px;
 }
