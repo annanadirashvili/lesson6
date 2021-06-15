@@ -97,12 +97,13 @@ width: 200px;
 	left: 30px;
 }
 .fish4 {
-	position: absolute;
+	
 	width: 100px;
 	top: 500px;
 	left: 400px;
 	transition-duration: 5s;
 	transition-timing-function: linear	
+	position: absolute;
 }
 .fish4:hover {
 	width: 160px;
