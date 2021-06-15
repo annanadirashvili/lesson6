@@ -97,15 +97,15 @@ width: 200px;
 	left: 30px;
 }
 .fish4 {
-	
-	width: 100px;
-	top: 500px;
+	position: absolute;
+	width: 50px;
+	top: 400px;
 	left: 400px;
 	transition-duration: 5s;
 	transition-timing-function: linear	
-	position: absolute;
+
 }
 .fish4:hover {
 	width: 160px;
-	top: 400px;
+	top: 300px;
 }
